@@ -1,0 +1,15 @@
+#Google {
+    color: darkblue;
+    font-weight: bold;
+}
+
+.home-footer {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("white.jpg");
+    background-size: cover;
+    background-position: center;
+}
